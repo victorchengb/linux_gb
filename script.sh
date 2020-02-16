@@ -1,4 +1,5 @@
 #!/bin/bash
 echo Hello All!
-echo Hello team!
+
+тут могла бы быть ваша реклама
 
